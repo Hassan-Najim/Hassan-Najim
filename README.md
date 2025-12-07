@@ -39,9 +39,8 @@
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
-- Server Management: OpenMediaVault, OpenToServer
+- Server Management: OpenMediaVault, Ubuntu Server
 - Networking: ZTNA (Cloudflare Zero Trust), VPN configuration
-- Design: Figma
 
 
 > ## Frameworks & Libraries
@@ -50,6 +49,7 @@
 - Web: Node.js, React (learning)
 - Game Development: Unity Engine
 - Automation: Pillow, python-docx, ReportLab, rembg, win32com
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Najim&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
