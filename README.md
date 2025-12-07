@@ -43,9 +43,11 @@
 - Game Development: Unity Engine
 - Automation: Pillow, python-docx, ReportLab, rembg, win32com
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Najim&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hassan-Najim&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 ## 🚀 Projects I have worked on 
