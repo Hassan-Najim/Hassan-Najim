@@ -13,14 +13,7 @@
 
 ## 🧠 My Focus Areas
 - Mathmatics, NEAT algorithms, Q-learning, and applying reinforcement learning to real-world problem-solving
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hassan-Najim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hassan-Najim's GitHub Stats" width="49%" />
-</p>
-
-
+  
 
 ## 🛠️ Languages & Tools
 
