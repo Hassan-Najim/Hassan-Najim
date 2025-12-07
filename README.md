@@ -44,12 +44,6 @@
 - Automation: Pillow, python-docx, ReportLab, rembg, win32com
 
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hassan-Najim&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Top Languages" />
-</p>
-
-
-
 ## 🚀 Projects I have worked on 
 
 ### 🤖 Arabic News Classification Model
