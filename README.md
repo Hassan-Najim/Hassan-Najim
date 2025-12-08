@@ -76,7 +76,7 @@ Created an immersive 3D game featuring a fully realized university campus with a
 **[View Project](app://obsidian.md/index.html#)** _(Coming Soon)_
 
 ---
-### 📱 CampoConnect - University Student Assistant App
+### 📱 CampuConnect - University Student Assistant App
 
 **Technologies:** Figma, UI/UX Design
 
