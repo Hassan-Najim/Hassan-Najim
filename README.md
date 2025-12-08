@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Hasan Alhatab</h1>
-<h3 align="center">Junior Software Engineer</h3><h3 align="center">Interested In AI Development and Machine Learning</h3>
+<h3 align="center">UnderGraduate Software Engineer</h3><h3 align="center">Interested In AI Development and Machine Learning</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Hassan-Najim">
@@ -14,6 +14,9 @@
 ## 🧠 My Focus Areas
 - Mathmatics, NEAT algorithms, Q-learning, and applying reinforcement learning to real-world problem-solving
 
+
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/hassan-al-hateb-b2935130b/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Hasan Alhatab's LinkedIn"/></a> <a href="mailto:hassanalhateb@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hasan Alhatab's Email"/></a> <a href="https://wa.me/5318326749" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
 ## 🛠️ Languages & Tools
 
@@ -73,7 +76,7 @@ Created an immersive 3D game featuring a fully realized university campus with a
 **[View Project](app://obsidian.md/index.html#)** _(Coming Soon)_
 
 ---
-### 📱 CampuConnect - University Student Assistant App
+### 📱 CampoConnect - University Student Assistant App
 
 **Technologies:** Figma, UI/UX Design
 
@@ -170,9 +173,6 @@ Developed a comprehensive suite of automation tools for everyday productivity ta
 
 **[View Scripts Repository](app://obsidian.md/index.html#)** _(Coming Soon)_
 
-
-## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/hassan-al-hateb-b2935130b/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Hasan Alhatab's LinkedIn"/></a> <a href="mailto:hassanalhateb@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hasan Alhatab's Email"/></a> <a href="https://wa.me/5318326749" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
 ## 💬 Quote
 > "My motto is to be stronger than yesterday, if I have to I’ll be stronger than half a day ago, even a minute ago!"        _ Rock Lee
