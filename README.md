@@ -1,11 +1,13 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" height="30px" width="30px"> I'm Hasan Alhatab</h1>
 <h3 align="center">Undergraduate Software Engineer</h3><h3 align="center">Interested In AI Development and Machine Learning</h3>
 
+<!--
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Hassan-Najim">
     <img src="https://komarev.com/ghpvc/?username=Hassan-Najim&label=Profile%20views&color=00FFFF&style=flat-square" alt="Hassan-Najim's profile views" />
   </a>
 </p>
+-->
 
 ## 📌 About Me
 - I'm a final-year Software Engineering student passionate about building intelligent solutions and automating everyday problems. Currently exploring AI/ML with a focus on reinforcement learning algorithms (NEAT, Q-learning) while maintaining strong full-stack development skills.
