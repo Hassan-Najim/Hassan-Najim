@@ -176,7 +176,7 @@ Developed a comprehensive suite of automation tools for everyday productivity ta
 **[View Scripts Repository](app://obsidian.md/index.html#)** _(Coming Soon)_
 
 
-## 💬 Quote
+## 💬 Personal Favourite Quote
 > "My motto is to be stronger than yesterday, if I have to I’ll be stronger than half a day ago, even a minute ago!"        _ Rock Lee
 
 <picture>
