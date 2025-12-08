@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Hasan Alhatab</h1>
-<h3 align="center">UnderGraduate Software Engineer</h3><h3 align="center">Interested In AI Development and Machine Learning</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" height="30px" width="30px"> I'm Hasan Alhatab</h1>
+<h3 align="center">Undergraduate Software Engineer</h3><h3 align="center">Interested In AI Development and Machine Learning</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Hassan-Najim">
